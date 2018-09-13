@@ -1,0 +1,30 @@
+_repo: Dallo-Stelvio-al-mare_51624
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Bontempelli, Massimo
+    birthdate: 1878
+    deathdate: 1960
+    gutenberg_agent_id: '46496'
+    url: http://www.gutenberg.org/2009/agents/46496
+description: ''
+gutenberg_bookshelf: IT Storia
+gutenberg_issued: '2016-04-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '51624'
+language: it
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Bontempelli, Massimo, 1878-1960'
+- !lcsh 'World War, 1914-1918 -- Personal narratives, Italian'
+- !lcc 'D501'
+- !lcsh 'World War, 1914-1918 -- Campaigns -- Italy'
+- !lcsh 'War correspondents -- Italy -- Biography'
+- !lcsh 'Soldiers -- Italy -- Biography'
+- !lcsh 'World War, 1914-1918 -- Journalists -- Biography'
+- GITenberg
+title: Dallo Stelvio al mare
+url: http://www.gutenberg.org/ebooks/51624
